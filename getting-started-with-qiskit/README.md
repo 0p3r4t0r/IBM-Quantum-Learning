@@ -13,6 +13,11 @@ easier to read than the bare-bones `pip freeze > requirements.txt`.
 the api token, which is stored in `.env`.
 
 
+## Quick Commands
+
+- `poetry run python <your_script>.py`
+
+
 ## Pitfalls
 
 - Poetry broken virtual environment
